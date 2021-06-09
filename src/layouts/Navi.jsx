@@ -15,6 +15,14 @@ export default function Navi() {
                     <Menu.Item name="Job Advert" />
                     <Menu.Item name="Companies" />
                     <Menu.Menu position="right">
+                        {/* <Dropdown item text="Language">
+              <Dropdown.Menu>
+                <Dropdown.Item>English</Dropdown.Item>
+                <Dropdown.Item>Russian</Dropdown.Item>
+                <Dropdown.Item>Spanish</Dropdown.Item>
+              </Dropdown.Menu>
+            </Dropdown> */}
+
                         <Menu.Item>
                             <Button.Group>
                                 <Button primary>Sign Up</Button>
